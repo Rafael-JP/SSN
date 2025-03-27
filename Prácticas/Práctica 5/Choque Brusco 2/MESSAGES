@@ -1,0 +1,5 @@
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+FATAL: SCF_NOT_CONV: SCF did not converge in maximum number of steps (required).
+ (info): Geom step, scf iteration, dDmax, dHmax:   19   250      1.593730     0.851558
+FATAL: ABNORMAL_TERMINATION
